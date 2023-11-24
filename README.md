@@ -36,5 +36,7 @@ To run the Potato Disease Prediction project, follow these steps:
 2. Install dependencies:
 
 pip install Tensorflow , Matplotlib
-3. Run
+
+3. Run the potato-disease-classification-model.ipynb file
+
 
